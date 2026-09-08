@@ -2,7 +2,9 @@
   "initialised": true,
   "ETHUSDT_15m_sweep_high": 1786438799999,
   "SOLUSDT_15m_sweep_high": 1785863699999,
-  "BTCUSDT_15m_bos_bull": 1786438799999,
+  "BTCUSDT_15m_bos_bull": 1788880499999,
   "ETHUSDT_15m_bos_bear": 1787310899999,
-  "SOLUSDT_15m_sweep_low": 1787310899999
+  "SOLUSDT_15m_sweep_low": 1787310899999,
+  "ETHUSDT_15m_bos_bull": 1788880499999,
+  "SOLUSDT_15m_bos_bull": 1788880499999
 }
